@@ -1,1 +1,1 @@
-fileContent
+{"FIRID":"My First FIR 7","recordingOfficer":"","recordingPerson":"","complainant":"","policeStation":"","offence":"","section":"","policeStationCode":"","logs":""}
